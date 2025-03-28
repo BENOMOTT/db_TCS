@@ -1,0 +1,17 @@
+  crear ambiente virtual.
+
+windows --- 
+
+python -m venv myenv  
+
+mac --- 
+
+source myenv/bin/activate
+
+  instalar requerimientos.
+
+pip install -r requirements.txt
+
+  levantar api
+
+python api.py
